@@ -6,9 +6,10 @@
 
 最早的成员是2020学年的二班人，象教创始人谢忠霖因不满班主任弄权，老师昏庸，暗自传播象教，最早的一批象教成员诞生了，其规模越来越大，到了2021年，发展为了象朝人民共和国。
 
-### Jekyll Themes
+### 向我们寻求帮助
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DaXiangNB/DaXiangNB.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+如果你身处校内，你可以到D303向我们指挥员谢忠霖汇报相关情况，稍后我们将会帮助你。
+如果你身处校外，你可以在[QQ邮箱](https://wx.mail.qq.com/)向elephantempirehelp@qq.com发送关于你的情况的邮件。
 
 ### Support or Contact
 
