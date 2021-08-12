@@ -11,6 +11,6 @@
 如果你身处校内，你可以到D303向我们指挥员谢忠霖汇报相关情况，稍后我们将会帮助你。
 如果你身处校外，你可以在[QQ邮箱](https://wx.mail.qq.com/)向elephantempirehelp@qq.com发送关于你的情况的邮件。
 
-### Support or Contact
+### 加入我们
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+如果你想成为一个让人赞扬的人，可以选择加入我们，向elephantempirehelp@qq.com发送关于你个人信息的邮件，我们会对你进行审核，考核，如果你通过了，周一上午7点可以到D303报道。
