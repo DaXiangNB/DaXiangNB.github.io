@@ -1,11 +1,9 @@
 ## Welcome to Elephant Empire
 我们是一个存在于[赣县第四中学]（https://baike.baidu.com/item/%E8%B5%A3%E5%B7%9E%E5%B8%82%E8%B5%A3%E5%8E%BF%E5%8C%BA%E7%AC%AC%E5%9B%9B%E4%B8%AD%E5%AD%A6/50002581?fr=aladdin）的组织，其领导者为天皇谢忠霖，我们是一个正规的除恶扬善的组织，如果你被人欺负，可以来寻求我们的帮助.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 我们是谁？
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我们最早成立于2020年七二班，象教的创始人不满班主任弄权，老师昏庸的情况下，暗自传播象教，招揽了最早的一批二班信徒，其规模逐渐扩大
 
 ```markdown
 Syntax highlighted code block
