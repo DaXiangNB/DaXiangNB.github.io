@@ -29,4 +29,10 @@
 你可以在[bilibili](https://www.bilibili.com)关注我们指挥员谢忠霖的最新动态。[点击直达主页](https://space.bilibili.com/511058742?spm_id_from=333.788.b_765f7570696e666f.1)
 
 
+### 我们目前可以透露的成员
+
+
+[谢忠霖](https://daxiangnb.github.io/celebrity/)
+
+
 
