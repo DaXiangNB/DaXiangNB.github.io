@@ -28,3 +28,8 @@
 
 你可以在[bilibili](https://www.bilibili.com)关注我们指挥员谢忠霖的最新动态。[点击直达主页](https://space.bilibili.com/511058742?spm_id_from=333.788.b_765f7570696e666f.1)
 
+
+
+<img height=500 width=800 src="https://img-blog.csdn.net/20180710104519355?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xzMTc5MjMwNDgzMA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70">
+
+
