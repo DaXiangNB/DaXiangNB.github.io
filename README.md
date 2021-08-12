@@ -21,3 +21,9 @@
 
 
 如果你想成为一个让人赞扬的人，可以选择加入我们，向elephantempirehelp@qq.com发送关于你个人信息的邮件，我们会对你进行审核，考核，如果你通过了，周一上午7点可以到D303报道。
+
+
+### 关注我们
+
+
+你可以在[bilibili](https://www.bilibili.com)关注我们指挥员谢忠霖的最新动态。[点击直达主页](https://space.bilibili.com/511058742?spm_id_from=333.788.b_765f7570696e666f.1)
