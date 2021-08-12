@@ -1,5 +1,5 @@
 ## Welcome to Elephant Empire
-You can use the [editor on GitHub](https://github.com/DaXiangNB/DaXiangNB.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+我们是一个存在于[赣县第四中学]（https://baike.baidu.com/item/%E8%B5%A3%E5%B7%9E%E5%B8%82%E8%B5%A3%E5%8E%BF%E5%8C%BA%E7%AC%AC%E5%9B%9B%E4%B8%AD%E5%AD%A6/50002581?fr=aladdin）的组织，其领导者为天皇谢忠霖，我们是一个正规的除恶扬善的组织，如果你被人欺负，可以来寻求我们的帮助.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
