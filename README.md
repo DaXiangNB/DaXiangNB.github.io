@@ -2,6 +2,12 @@
 我们是一个存在于[赣县四中](https://baike.baidu.com/item/%E8%B5%A3%E5%B7%9E%E5%B8%82%E8%B5%A3%E5%8E%BF%E5%8C%BA%E7%AC%AC%E5%9B%9B%E4%B8%AD%E5%AD%A6/50002581?fromtitle=%E8%B5%A3%E5%8E%BF%E7%AC%AC%E5%9B%9B%E4%B8%AD%E5%AD%A6&fromid=53189561&fr=aladdin)的民间组织，是一个除恶扬善的组织，如果你有任何危险，可以向我们寻求帮助。
 
 
+
+## [象朝冥间新闻](https://daxiangnb.github.io/news/)
+
+
+
+
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1350263842&auto=1&height=66"></iframe>
 
 
