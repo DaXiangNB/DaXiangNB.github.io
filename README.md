@@ -69,6 +69,8 @@ QQ国民群：686824495
 
 
 [点击进入](https://daxiangnb.github.io/games)
+[scratch偷懒作品大全](https://www.scratch5.com/)
+
 
 
 
