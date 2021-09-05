@@ -72,14 +72,16 @@
 [scratch偷懒作品大全](https://www.scratch5.com/)
 
 
-### 声明
-
-本网站由象教信徒~~止如水~~提供技术支持
 
 
-
+## 广告
 
 <img height=1800 width=800 src="https://note.youdao.com/yws/api/personal/file/WEB89df120cc85b426a03d5d18635246531?method=download&shareKey=5a0d6ae0548798fe53fb20aa9e09d84e">
 
 
+推广广告联系官方邮箱
 
+
+### 声明
+
+本网站由象教信徒~~止如水~~提供技术支持
