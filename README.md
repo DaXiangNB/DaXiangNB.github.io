@@ -3,7 +3,7 @@
 
 
 
-## [象朝冥间新闻](https://daxiangnb.github.io/news/)
+<center>## [象朝冥间新闻](https://daxiangnb.github.io/news/)</center>
 
 
 
