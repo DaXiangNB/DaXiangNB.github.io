@@ -3,9 +3,9 @@
   
   
 
-<center><font face="KaiTi" size="8" color="#660000">Join us，now</font></center>
+<center><font face="楷体" size="8" color="#660000">Join us，now</font></center>
 
-<center><font face="KaiTi" size="8" color="#660000">Official mail elephantempirehelp@qq.com</font></center>
+<center><font face="楷体" size="8" color="#660000">Official mail elephantempirehelp@qq.com</font></center>
 
 
 
