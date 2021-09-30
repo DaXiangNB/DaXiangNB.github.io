@@ -3,18 +3,6 @@
 
 
 
-## 5星通缉令
-
-<img height=640 width=480 src="https://note.youdao.com/yws/api/personal/file/WEB720f7fc89abe433f169659a89f3cd8a9?method=download&shareKey=bfdb1aa4bf6af1b8cd7e82c97c204a33">
-
-<img height=640 width=480 src="https://note.youdao.com/yws/api/personal/file/WEBa1c13fbb0a0ac95ebdb1c99f9a1457aa?method=download&shareKey=d0b2e32c74a3c1648bb506a643ebb55e">
-
-付梓豪  八2班班霸
-
-此人违反了有关判军法则，根据规定，任何象民都可以向他索赔100元外加处刑
-
-此人电话：15279981103
-  
   
 
 <center><font face="楷体" size="8" color="#660000">Join us，now</font></center>
